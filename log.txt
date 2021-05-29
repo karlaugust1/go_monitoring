@@ -1,0 +1,9 @@
+29/05/2021 15:17:41 - https://random-status-code.herokuapp.com/ - online: false
+29/05/2021 15:17:42 - https://google.com - online: true
+29/05/2021 15:17:42 - https://youtube.com - online: true
+29/05/2021 15:17:53 - https://random-status-code.herokuapp.com/ - online: true
+29/05/2021 15:17:53 - https://google.com - online: true
+29/05/2021 15:17:53 - https://youtube.com - online: true
+29/05/2021 15:17:59 - https://random-status-code.herokuapp.com/ - online: false
+29/05/2021 15:17:59 - https://google.com - online: true
+29/05/2021 15:17:59 - https://youtube.com - online: true
